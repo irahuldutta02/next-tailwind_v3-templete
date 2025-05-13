@@ -1,1 +1,1 @@
-# next-tailwind_v3-templete
+# next-tailwind_v3-template
